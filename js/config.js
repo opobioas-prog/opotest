@@ -3,8 +3,8 @@
 //  con tus credenciales de Supabase
 // ══════════════════════════════════════════════════════
 
-const SUPABASE_URL = 'https://TU-PROYECTO.supabase.co'   // ← cambia esto
-const SUPABASE_KEY = 'TU-CLAVE-ANON-PUBLICA'             // ← cambia esto
+const SUPABASE_URL = 'https://ddlnggscsgguftfbjmdm.supabase.co'   // ← cambia esto
+const SUPABASE_KEY = 'sb_publishable_75fK1H7tDIhLmK3UREm6UQ_80kKvleE'             // ← cambia esto
 
 // ── Cliente Supabase ──────────────────────────────────
 // (requiere que supabase-js esté cargado antes)
